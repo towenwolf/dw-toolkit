@@ -1,7 +1,3 @@
-# dw-template
-
-This repo will contain sql code to be able to build a kimball style data warehouse.
-
 ## Overview
 - Starter kit for a Kimball-style data warehouse that keeps the top-level guidance brief but points to detailed docs for deeper dives.
 
